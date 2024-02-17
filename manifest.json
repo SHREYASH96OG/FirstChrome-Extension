@@ -1,0 +1,11 @@
+{
+    "name": "Clock and Calandar",
+    "version": "1.0.0",
+    "description": "latest Clock and Calandar",
+    "manifest_version": 3,
+    "author": "Shreyash Gaikwad",
+    "action":{
+        "default_popup": "index.html",
+        "default_title": "Clock and Calandar"
+    }
+}
